@@ -1,0 +1,2 @@
+# Ignore backend keys
+train-schedule-backend/src/key.ts
